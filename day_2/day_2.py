@@ -2,6 +2,7 @@
 first_name='Shahzaib'
 last_name='Ahmad'
 full_name='ali ahmad'
+
 country= 'Pakistan'
 city= 'multan'
 age= 20
